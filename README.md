@@ -9,12 +9,12 @@ Please provide your MetaMask wallet address:
 
 ## Local Testing
 Please provide a screenshot of the `forge test -vvv` command running in your local environment.
-![image](https://hackmd.io/_uploads/By_CFTS2T.png)
+[image](https://hackmd.io/_uploads/By_CFTS2T.png)
 
 ## Contract Address
 Please provide the contract address that you deployed on the Sepolia network.
 
-![image](https://hackmd.io/_uploads/SJ45Of83T.png)
+[image](https://hackmd.io/_uploads/SJ45Of83T.png)
 0x09C52CB62Df35Ca0e24801DC15Ddfb799eD41450
 
 
@@ -24,4 +24,4 @@ Paste the contract address into the Sepolia Etherscan and share the screenshot.
 
 **I tried to search the contract address on Sepolia Etherscan, it didn't show up anything on the page, so instead I upload the screenshot of another platform.** 
 
-![image](https://hackmd.io/_uploads/Bk3vTmLna.png)
+[image](https://hackmd.io/_uploads/Bk3vTmLna.png)
