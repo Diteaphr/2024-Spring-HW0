@@ -1,4 +1,4 @@
-# 2024-Spring-HW0
+# 2024 -Spring-HW0
 
 All the detailed specified in Homework 0 documentation.
 
