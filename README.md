@@ -14,7 +14,7 @@ Please provide a screenshot of the `forge test -vvv` command running in your loc
 ## Contract Address
 Please provide the contract address that you deployed on the Sepolia network.
 
-![image alt](https://github.com/Diteaphr/2024-Spring-HW0/blob/main/fintech%20img%202.png)
+![image](https://github.com/Diteaphr/2024-Spring-HW0/blob/main/fintech%20img%202.png)
 
 0x09C52CB62Df35Ca0e24801DC15Ddfb799eD41450
 
@@ -23,6 +23,4 @@ Please provide the contract address that you deployed on the Sepolia network.
 ## Sepolia Etherscan
 Paste the contract address into the Sepolia Etherscan and share the screenshot.
 
-**I tried to search the contract address on Sepolia Etherscan, it didn't show up anything on the page, so instead I upload the screenshot of another platform.** 
-
-![image alt](https://github.com/Diteaphr/2024-Spring-HW0/blob/main/fintech%20hw0%20img%203.png)
+![image](https://github.com/Diteaphr/2024-Spring-HW0/blob/main/fintech%20hw0%20img%2003.png)
